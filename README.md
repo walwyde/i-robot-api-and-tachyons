@@ -1,2 +1,2 @@
-# i-robot-api-and-tachyons
+# i-robot-api-with-tachyons
 simple react js code demonstrating fetching data from an api...
